@@ -9,7 +9,7 @@ eliana.fonseca@ufrgs.br
 
 
 Apresentação:
-https://docs.google.com/presentation/d/1U0CZQg7GZB3dc_smVL2BhJ9XjGndLpeir-qoO0xCMAc/edit?usp=sharing
+https://docs.google.com/presentation/d/1Sra4Bslm5Vyl09ltZVD8bxbo8vbStZPt/edit?usp=sharing&ouid=103799429246827642878&rtpof=true&sd=true
 
 Monitoramento de emergências:
 https://eliana_ufrgs.users.earthengine.app/view/arambare
