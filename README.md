@@ -4,9 +4,6 @@ DevFest 2025 - Belo Horizonte - MG - Brazil
 
 
 Eliana Lima da Fonseca
-
-UFRGS - Departamento de Geografia
-
 eliana.fonseca@ufrgs.br
 
 
