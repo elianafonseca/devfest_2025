@@ -1,5 +1,7 @@
 DevFest 2025 - Belo Horizonte - MG - Brazil
 
+<img width="1163" height="663" alt="image" src="https://github.com/user-attachments/assets/1459f433-7279-4cd7-bcf1-8180d46de93d" />
+
 
 Eliana Lima da Fonseca
 
